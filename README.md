@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+Hi every body!
+This is my first repository and Here I am on the way of Git Hub
